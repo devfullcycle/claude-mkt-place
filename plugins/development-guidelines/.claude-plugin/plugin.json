@@ -1,0 +1,8 @@
+{
+  "name": "development-guidelines",
+  "description": "Development Guidelines plugin for generating comprehensive language-specific development guideline documents",
+  "version": "1.0.0",
+  "author": {
+    "name": "Wesley Willians"
+  }
+}

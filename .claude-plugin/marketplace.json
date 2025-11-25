@@ -23,6 +23,12 @@
       "description": "Project Analyzer plugins for comprehensive architectural analysis, component deep analysis, and dependency auditing",
       "source": "./plugins/project-analizer",
       "version": "1.0.0"
+    },
+    {
+      "name": "development-guidelines",
+      "description": "Development Guidelines plugin for generating comprehensive language-specific development guideline documents",
+      "source": "./plugins/development-guidelines",
+      "version": "1.0.0"
     }
   ]
 }
